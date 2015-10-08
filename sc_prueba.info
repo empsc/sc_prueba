@@ -24,4 +24,6 @@ dependencies[] = file
 dependencies[] = rdf
 
 
+base = openpublic
+
 files[] = sc_prueba.profile
