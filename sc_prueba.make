@@ -70,5 +70,7 @@ projects[service_container][subdir] = contrib
 
 projects[registry_autoload][subdir] = contrib
 
-
-
+;incluir profile drupaleasy
+projects[sc_prueba][download][type] = "git"
+projects[sc_prueba][download][url] = "git://github.com/ultimike/drupaleasy_intall_profile.git"
+projects[sc_prueba][type] = "profile"
