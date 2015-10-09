@@ -14,9 +14,9 @@ api = 2
   
 core = 7.x
 
-projects[openpublic][type] = profile
-projects[openpublic][download][type] = git
-projects[openpublic][download][url] = http://git.drupal.org/project/openpublic.git
+;projects[openpublic][type] = profile
+;projects[openpublic][download][type] = git
+;projects[openpublic][download][url] = http://git.drupal.org/project/openpublic.git
 ;projects[openpublic][download][branch] = 7.x-1.0.4
 
 ;incluir profile drupaleasy
